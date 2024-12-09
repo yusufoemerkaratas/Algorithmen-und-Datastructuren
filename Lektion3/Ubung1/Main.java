@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
-        int zeilen = 10;
+        int zeilen =  10;
         int spalten = 10;
 
         // Grid ve görselleştirme

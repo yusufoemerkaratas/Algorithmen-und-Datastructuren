@@ -11,7 +11,7 @@ public class GridVisualisierung extends JPanel {
     public GridVisualisierung(int[][] brett, int zeilen, int spalten) {
         this.brett = brett;
         this.zeilen = zeilen;
-        this.spalten = spalten;
+        this.spalten =  spalten;
     }
 
     @Override
